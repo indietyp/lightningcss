@@ -1,3 +1,4 @@
+#![allow(missing_docs)]
 use crate::compat::Feature;
 use crate::error::{ParserError, PrinterError};
 use crate::printer::Printer;

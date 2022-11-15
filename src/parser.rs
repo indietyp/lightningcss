@@ -1,3 +1,4 @@
+#![allow(missing_docs)]
 use crate::declaration::{parse_declaration, DeclarationBlock, DeclarationList};
 use crate::error::{Error, ParserError};
 use crate::media_query::*;
